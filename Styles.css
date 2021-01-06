@@ -1,0 +1,146 @@
+body {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1 {
+    font-size: 400%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Sacramento', cursive;
+    color: #295939;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #295939;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Top-Container {
+    background-color: #ecbce4;
+    padding-top: 100px;
+}
+#Top-Container h2{
+    font-weight: normal;
+}
+.skill-row {
+width: 50%;
+margin: auto;
+text-align: left;
+line-height: 2;
+padding-top: 1%;
+}
+.Skill {
+    width: 25%;
+    margin: 35px 30Px 20px auto;
+    float: left;
+}
+.Service {
+    width: 25%;
+    margin: 20px auto 20px auto;
+    float: right;
+}
+.profile img{
+    width: 15%;
+    padding-top: 5%;
+}
+.profile p{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+.Dot {
+    margin: 4% auto;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: violet;
+    border-width: 8px;
+    width: 8%;
+}
+#contact-me p {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+.BUTTON_AHU {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    height: 50px;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-family: Times New Roman;
+    width: 200px;
+    font-size: 22px;
+    font-weight: 100;
+    padding: 0;
+    background-color: #E9B0DF;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #FFFFFF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px auto;
+ }
+ 
+ .BUTTON_AHU:hover {
+    border: solid #99C624 1px;
+    background: red;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+ .bottom-container {
+     margin: 40px auto 0;
+     background-color: #E9B0DF;
+     padding: 20px;
+     line-height: 2;
+ }
+ .bottom-container a{
+     margin: 20Px 10Px;
+     text-decoration: none;   
+ }
+
+ .navigation{
+     background-color: #ffabe1;
+     position: fixed;
+     width: 100%;
+ }
+.navigation img{
+    width: 10%;
+    float: left;;
+}
+.navigation li a{
+    text-decoration: none;
+    padding: 10px 14px;
+}
+.navigation li {
+    float: right;
+    padding: 2% 0;
+    list-style: none;
+}
+.navigation li a:hover {
+    background-color: red;
+    border-radius: 8px;
+    color: white;
+}
+.bottom-container a:hover {
+    background-color: red;
+    border-radius: 8px;
+    color: white;
+    padding: 1%;
+}
+
+
+
